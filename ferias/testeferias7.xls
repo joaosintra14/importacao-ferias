@@ -1,0 +1,72 @@
+<html>
+<body>
+<table width=547px border=1>
+   <tr>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Ano</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Ant.</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Art.º 7</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">SIADAP/ACEP Ano if(acep = 1, if(acepant = 1, SIADAP/ACEP, SIADAP / ACEP), SIADAP/ACEP)</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Nº Func.</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Nome</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">SIADAP/ACEP Ant. if(acep = 1, if(acepant = 1, SIADAP/ACEP, SIADAP / ACEP), SIADAP/ACEP)</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Data Inicio</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Data Fim</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Nº Dias</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Data Inicio</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Data Fim</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Nº Dias</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Data Inicio</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Data Fim</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Nº Dias</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Data Inicio</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Data Fim</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Nº Dias</td>
+      <td align=center style="color: black; background-color: silver; font-size: 8pt; font-family: Arial">Saldo</td>
+   </tr>
+   <tr>
+      <td align=right width=10 style="font-size: 8pt; font-family: Arial;">23.00</td>
+      <td align=right width=10 style="font-size: 8pt; font-family: Arial;">0</td>
+      <td align=right width=10 style="font-size: 8pt; font-family: Arial;">0</td>
+      <td align=right width=10 style="font-size: 8pt; font-family: Arial;">3.00</td>
+      <td align=right width=65 style="font-size: 8pt; font-family: Arial;">510</td>
+      <td align=left width=10 style="font-size: 8pt; font-family: Arial;">&nbsp;Samuel Farinha Borges Lopes</td>
+      <td align=right width=37 style="font-size: 8pt; font-family: Arial;">0</td>
+      <td align=center width=50 style="font-size: 8pt; font-family: Arial;">28-Mar-22</td>
+      <td align=center width=50 style="font-size: 8pt; font-family: Arial;">28-Mar-22</td>
+      <td align=right width=39 style="font-size: 8pt; font-family: Arial;">1.00</td>
+      <td align=center width=50 style="font-size: 8pt; font-family: Arial;">18-Apr-22</td>
+      <td align=center width=50 style="font-size: 8pt; font-family: Arial;">19-Apr-22</td>
+      <td align=right width=39 style="font-size: 8pt; font-family: Arial;">2.00</td>
+      <td align=center width=50 style="font-size: 8pt; font-family: Arial;">11-May-22</td>
+      <td align=center width=50 style="font-size: 8pt; font-family: Arial;">11-May-22</td>
+      <td align=right width=39 style="font-size: 8pt; font-family: Arial;">1.00</td>
+      <td align=center width=50 style="font-size: 8pt; font-family: Arial;">13-Jun-22</td>
+      <td align=center width=50 style="font-size: 8pt; font-family: Arial;">15-Jun-22</td>
+      <td align=right width=39 style="font-size: 8pt; font-family: Arial;">3.00</td>
+      <td align=right width=39 style="font-size: 8pt; font-family: Arial;">0</td>
+   </tr>
+   <tr>
+      <td align=right style="font-size: 8pt; font-family: Arial;">23.00</td>
+      <td align=right style="font-size: 8pt; font-family: Arial;">0</td>
+      <td align=right style="font-size: 8pt; font-family: Arial;">0</td>
+      <td align=right style="font-size: 8pt; font-family: Arial;">3.00</td>
+      <td align=right style="font-size: 8pt; font-family: Arial;">510</td>
+      <td align=left style="font-size: 8pt; font-family: Arial;">&nbsp;Samuel Farinha Borges Lopes</td>
+      <td align=right style="font-size: 8pt; font-family: Arial;">0</td>
+      <td align=center style="font-size: 8pt; font-family: Arial;">17-Jun-22</td>
+      <td align=center style="font-size: 8pt; font-family: Arial;">17-Jun-22</td>
+      <td align=right style="font-size: 8pt; font-family: Arial;">1.00</td>
+      <td align=center style="font-size: 8pt; font-family: Arial;">31-Aug-22</td>
+      <td align=center style="font-size: 8pt; font-family: Arial;">16-Sep-22</td>
+      <td align=right style="font-size: 8pt; font-family: Arial;">13.00</td>
+      <td align=center style="font-size: 8pt; font-family: Arial;">02-Dec-22</td>
+      <td align=center style="font-size: 8pt; font-family: Arial;">02-Dec-22</td>
+      <td align=right style="font-size: 8pt; font-family: Arial;">1.00</td>
+      <td align=center style="font-size: 8pt; font-family: Arial;">19-Dec-22</td>
+      <td align=center style="font-size: 8pt; font-family: Arial;">22-Dec-22</td>
+      <td align=right style="font-size: 8pt; font-family: Arial;">4.00</td>
+      <td align=right style="font-size: 8pt; font-family: Arial;">0</td>
+   </tr>
+</table>
+</body>
+</html>
