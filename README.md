@@ -1,5 +1,6 @@
 # importacao-ferias
 
 Ficheiros:
-Script: ficheiro jar executavel \n
+Script: ficheiro jar executavel 
+
 ferias: Código fonte 
